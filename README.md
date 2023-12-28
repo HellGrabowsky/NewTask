@@ -23,3 +23,6 @@
 
 ***print("Результат:", result_array)***
 
+Ссылка на блок-схему
+
+https://drive.google.com/file/d/11X_ytNPj1jOFXjJb0TaPLNCY95tpssFj/view?usp=sharing 

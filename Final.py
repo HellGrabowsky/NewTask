@@ -7,4 +7,3 @@ for s in new_array:
 
 print("Результат:", result_array)
 
-# https://drive.google.com/file/d/11X_ytNPj1jOFXjJb0TaPLNCY95tpssFj/view?usp=sharing
